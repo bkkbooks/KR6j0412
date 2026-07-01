@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0412/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說妙吉祥菩薩陀羅尼
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1186.xml
+    old_id: T20n1186
+hash: sha256:59a16da76b86bf9b7289e3ed5ef4aefabbf900de58922e3fee057dea480a6c79
