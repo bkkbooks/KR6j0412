@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0412/v1
 canonical_location: https://kanripo.org/bkk/KR6j0412/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說妙吉祥菩薩陀羅尼
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0412_000.yaml, hash: 'sha256:59a16da76b86bf9b7289e3ed5ef4aefabbf900de58922e3fee057dea480a6c79'}
-  - {seq: 1, filename: KR6j0412_001.yaml, hash: 'sha256:7c854712014866789ddebba571baff83642162bd828b97758ef76d507a1ca283'}
+  - {seq: 1, filename: KR6j0412_001.yaml, hash: 'sha256:343b6512ad044c95bc49a4b8a8581c6b98b7157c96cd3e2eb804b69e1ea1ad9c'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0412_000.markers.yaml, hash: 'sha256:46c82ea12029f3dfc8a93c8f3a16bf7e11041d3cceebee698e2161ba39ae0573'}
-  - {seq: 1, role: markers, filename: assets/KR6j0412_001.markers.yaml, hash: 'sha256:2e79e9aad7aa700f5b4196c11cf66c6411811c8e97a7304fcfba15cb9de3c1b5'}
+  - {seq: 1, role: markers, filename: assets/KR6j0412_001.markers.yaml, hash: 'sha256:0abeb515b0b3d70b3f68719706a418f72cf3ba4658b07d07551a8ee701cfde93'}
 table_of_contents:
 - ref:
     seq: 1
@@ -43,4 +43,7 @@ table_of_contents:
   label: 佛說妙吉祥菩薩陀羅尼
   type: juan
   level: 1
-hash: sha256:f7ce0d289ef21b4f88f9ce1afab74b4b4a3de4bf092ece43a19ec195f2282106
+hash: sha256:84777fb237d7bbe86a19178c88dc9b0b77d29d38345f0849e9a35c8e55401cc3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
